@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "01b454dfe8d6045ceb33",
-    "url": "/Simple-Unsplash-Photo-App/static/css/main.21eb720d.chunk.css"
+    "revision": "bc72e070b0e4d37c92ff",
+    "url": "/Simple-Unsplash-Photo-App/static/css/main.a11a9dc3.chunk.css"
   },
   {
-    "revision": "01b454dfe8d6045ceb33",
-    "url": "/Simple-Unsplash-Photo-App/static/js/main.01b454df.chunk.js"
+    "revision": "bc72e070b0e4d37c92ff",
+    "url": "/Simple-Unsplash-Photo-App/static/js/main.bc72e070.chunk.js"
   },
   {
     "revision": "18512d3d6550d088757e",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Simple-Unsplash-Photo-App/static/js/runtime~main.d6b93ea7.js"
   },
   {
-    "revision": "f434ed89bbb0834f64b9caad14543533",
+    "revision": "a3f59f47c35fca6154c430748fdef6d9",
     "url": "/Simple-Unsplash-Photo-App/index.html"
   }
 ];
